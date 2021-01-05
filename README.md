@@ -1,9 +1,11 @@
-# TA-Cymail
-
-Aplikasi ini saya buat untuk menyandikan file dan pesan yang dikirimkan melalui email memngunakan algoritma Advanced Encryption Standard dan teknik kompresi Huffman.Saya juga menggunakan SMTP Mail dan IMAP Server dalam pengiriman pesan maupun penerimaan inbox yang masuk ke aplikasi.
-
-Preview Project:
-
+# CryptoMail
+Program Tugas Akhir - Aplikasi ini saya buat untuk menyandikan file dan pesan yang dikirimkan melalui email memngunakan algoritma Advanced Encryption Standard dan teknik kompresi Huffman.Saya juga menggunakan SMTP Mail dan IMAP Server dalam pengiriman pesan maupun penerimaan inbox yang masuk ke aplikasi. Khusus email Gmail, Yahoo dan AOL Mail
+# System Requrement
+1. PHP >= 5.6 
+2. Aktfikan Ekstensi PHP Mail
+3. OpenSSL
+4. Matikan security akses aplikasi pihak ke-3 ->  https://myaccount.google.com/security
+# Preview Project:
 ![login](https://user-images.githubusercontent.com/33642253/103503745-db327280-4e87-11eb-975e-e86d7ae2bb1e.PNG)
 ![utama](https://user-images.githubusercontent.com/33642253/103503752-e2f21700-4e87-11eb-9aec-02bea2951367.PNG)
 ![kirim pesan](https://user-images.githubusercontent.com/33642253/103503764-ee454280-4e87-11eb-8e23-7a7098438a16.PNG)
